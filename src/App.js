@@ -210,7 +210,7 @@ class App extends Component {
                 className="nopassimgpx"
               />
               <h1>No Passwords</h1>
-              <p>No Passwords</p>
+              
             </div>
           )}
         </div>
