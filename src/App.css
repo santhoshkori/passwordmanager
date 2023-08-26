@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bgcontainer {
+  background-color: #9ba9eb;
+  padding: 65px;
+}
+.logopx {
+  height: 50px;
+  width: 150px;
+}
+.blueinputboxcontainer {
+  background-color: #5763a5;
+  padding: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.inputcontainer {
+  background-color: #454f84;
+  padding: 25px;
+  border-radius: 10px;
+  width: 500px;
+}
+.hedsty {
+  color: #fff;
+  font-size: 18px;
+  margin-right: 7px;
+}
+.iconsty {
+  background-color: #fff;
+  height: 30px;
+  width: 30px;
+}
+.iconinputcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.inputsty {
+  height: 30px;
+  width: 300px;
+}
+.passwardmanagersty {
+  height: 300px;
+  width: 300px;
+  margin-right: 200px;
+}
+.storecontainer {
+  background-color: #5763a5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.passcount {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.searchandheading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.buttonstyling {
+  color: #fff;
+  background-color: #0b69ff;
+  padding: 8px;
+  border-style: none;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.buttoncontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.ulsty {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.checkboxcontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  color: #fff;
+}
+.nopasscontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+.nopassimgpx {
+  height: 250px;
+  width: 250px;
+}

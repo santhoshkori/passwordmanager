@@ -1,0 +1,79 @@
+.deleteimg {
+  height: 30px;
+  width: 30px;
+}
+.deletebutton {
+  background-color: transparent;
+  border-style: none;
+}
+.passitemsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  width: 300px;
+  border-color: #c3caea;
+  border-style: solid;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  border-radius: 20px;
+  margin: 5px;
+}
+.lettetnamecontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 8px;
+  color: white;
+}
+.headinglettersty {
+  color: #fff;
+}
+.headingcontainer {
+  margin-right: 25px;
+
+  padding: 10px;
+  height: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.startsty {
+  height: 10px;
+  width: 70px;
+}
